@@ -1,0 +1,9 @@
+[
+  {
+    "clientId": "123",
+    "clientLogoUrl": "https://example.com/logo.png",
+    "userID": "john_doe",
+    "userName": "John Doe",
+    "password": "password123"
+  }
+]
